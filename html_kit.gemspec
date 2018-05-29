@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Awin Abi"]
   spec.email         = ["awin@awinawin.awin"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "HtmlKit is a set of useful tools to manipulate and parse HTML files."
+  spec.description   = "HtmlKit is a set of useful tools to manipulate and parse HTML files."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
