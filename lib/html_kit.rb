@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'html_kit/version'
+require 'html_kit/document'
 
 # === HtmlKit
 #
